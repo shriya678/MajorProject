@@ -2,6 +2,10 @@
 
 > A full-stack accommodation rental platform where users can list, browse, review, and book unique stays around the world — inspired by Airbnb.
 
+**🔗 Live Demo:** [majorproject-kvks.onrender.com/listings](https://majorproject-kvks.onrender.com/listings)
+
+> ⏱️ The free Render instance sleeps after inactivity, so the first request may take ~30–50 seconds to wake up.
+
 Wanderlust is a server-rendered web application built with **Node.js, Express, and MongoDB**. It supports secure user authentication, image uploads to the cloud, owner-based authorization, and a clean review system with star ratings.
 
 ---
